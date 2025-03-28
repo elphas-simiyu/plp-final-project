@@ -1,4 +1,5 @@
 # PLP Final Project
+```Its incomplete```
 
 ## Overview
 This is the final project for the PLP Full-Stack Development MERN course. The project demonstrates proficiency in building a full-stack web application using the MERN (MongoDB, Express.js, React, Node.js) stack.
